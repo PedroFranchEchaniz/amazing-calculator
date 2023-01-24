@@ -4,6 +4,8 @@ public class IncredibleCalculator {
 
     public static void main(String[] args) {
 
+        int num1 = 0;
+        int num2 = 0
         System.out.println("Selecciona la operación que prefieras realizar: ");
         System.out.println("1. Sumar");
         System.out.println("2. Restar");
